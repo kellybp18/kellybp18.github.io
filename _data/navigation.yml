@@ -6,16 +6,16 @@
 
 main:
   - title: "Publications"
-    url: /publications/ 
+    url: /publications/
+
+  - title: "CV"
+    url: /cv/
 
   - title: "Teaching"
     url: /teaching/    
         
   - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
+    url: /blog/
     
   - title: "Guide"
     url: /markdown/
