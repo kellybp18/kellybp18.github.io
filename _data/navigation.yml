@@ -12,13 +12,7 @@ main:
     url: /cv/
 
   - title: "Teaching"
-    url: /teaching/    
-        
-  - title: "Blog Posts"
-    url: /blog/
-    
-  - title: "Guide"
-    url: /markdown/
+    url: /teaching/
 
   - title: "Gallery"
     url: /gallery/
