@@ -13,6 +13,7 @@ Research Interests
 ======
 
 - Seismic hazard analysis and mitigation
+- Earthquake rupture
 - Seismic tomography
 - Wave attenuation and path effects
 - Seismic directivity
