@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Academic CV](https://kellybp18.github.io/files/BrianKellyCV_2024.pdf)
+[Academic CV](https://kellybp18.github.io/files/BrianKellyCV_2024_web.pdf)
 
-[One Page Resume](https://kellybp18.github.io/files/BPK_Resume_2024.pdf)
+[One Page Resume](https://kellybp18.github.io/files/BPK_Resume_2024_web.pdf)
