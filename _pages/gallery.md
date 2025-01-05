@@ -4,6 +4,8 @@ title: "Gallery"
 permalink: /gallery/
 ---
 
+<p>Professional and field/nature photo gallery. All photos are my own. Please enjoy the beautiful landscapes!</p>
+
 <table>
   <tr>
     <td><img src="/images/photos/agu_2.jpg" alt="agu_2" width="330"></td>
@@ -98,7 +100,7 @@ permalink: /gallery/
 </table>
 
 
-<style>
+<!-- <style>
 body {
     display: flex;
     justify-content: center;
@@ -127,7 +129,7 @@ img:hover {
     transform: scale(1.05);
     border-color: #777;
 }
-</style>
+</style> -->
 
 
 <!-- ![Image 1](/images/DGB-top.jpg)
