@@ -4,7 +4,7 @@ title: "Gallery"
 permalink: /gallery/
 ---
 
-<p>Professional and field/nature photo gallery. All photos are my own. Please enjoy the beautiful landscapes!</p>
+<p>Professional and field/nature photo gallery. Please enjoy the beautiful landscapes I've had the privilege to see!</p>
 
 <table width="100%">
   <tr>
