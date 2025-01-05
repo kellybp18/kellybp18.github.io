@@ -8,7 +8,7 @@ permalink: /gallery/
 
 <table width="100%">
   <tr>
-    <td><img src="/images/photos/agu_2.jpg" alt="agu_2" width="50%"></td>
+    <td><img src="/images/photos/agu_2.jpg" alt="agu_2" width="100%"></td>
     <td><img src="/images/photos/agu_4.jpg" alt="agu_4" width="50%"></td>
   </tr>
 
