@@ -98,7 +98,7 @@ permalink: /gallery/
 </table>
 
 
-<!-- <style>
+<style>
 body {
     display: flex;
     justify-content: center;
@@ -127,7 +127,7 @@ img:hover {
     transform: scale(1.05);
     border-color: #777;
 }
-</style> -->
+</style>
 
 
 <!-- ![Image 1](/images/DGB-top.jpg)
